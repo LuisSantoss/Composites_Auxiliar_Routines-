@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+|                                                                             |
+|                  TECGRAF/COMPUTATIONAL GEOMECHANICS GROUP                   |
+|                                   GID2INT                                   |
+|                Code for creation of interface elements in GID               |
+|                                                                             |
+-------------------------------------------------------------------------------
+
+ Creating interface elements, wait...
+ Interface elements generated:     4
+ Number of elements with the same nodes at both faces :     0
+ Including interface elements in file *.lua...
+
+ ** FINISHING EXECUTION OF GID2INT **
